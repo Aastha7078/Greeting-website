@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;                                                                                         
+    background-color: cornsilk;                                               
+    background-image: url("");
+
+}
+.website{
+    margin: 200px;
+   background-color: palevioletred;
+    padding: 60px;                                                                                                      
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.NA0uwz-ikxFPg56FD31lVQHaDj&pid=Api&P=0&h=180");
+}
+.greeting{
+    text-align: center;
+    color:black;
+    text-transform: capitalize;
+    margin:30px;
+    padding: 40px;
+    text-shadow: 10px salmon;
+    background-color: blue;
+    background-image: url("https://wallpapercave.com/wp/mXXyO8i.jpg");
+}
+.website .box,{
+    background-color: palevioletred;
+}
